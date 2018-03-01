@@ -27,7 +27,7 @@ function addImportSpecifiers(load, ast) {
 	var map = getFromAST(ast);
 
 	load.metadata.importSpecifiers = map;
-};
+}
 
 exports.getFromAST = getFromAST;
 exports.addImportSpecifiers = addImportSpecifiers;
