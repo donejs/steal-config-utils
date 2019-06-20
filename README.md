@@ -1,7 +1,7 @@
 # steal-config-utils
 
 [![Build Status](https://travis-ci.org/donejs/steal-config-utils.svg?branch=master)](https://travis-ci.org/donejs/steal-config-utils)
-[![npm version](https://badge.fury.io/js/steal-config-utils.svg)](http://badge.fury.io/js/steal-config-utils)
+[![npm version](https://badge.fury.io/js/steal-config-utils.svg)](http://badge.fury.io/js/steal-config-utils) [![Greenkeeper badge](https://badges.greenkeeper.io/donejs/steal-config-utils.svg)](https://greenkeeper.io/)
 
 This is a collection of utilities, meant to be used mostly by plugins, to add configuration about a module to steal's config. This enable a variety of features within steal, such as better error messaging and the slim build.
 
